@@ -7,7 +7,7 @@ class MagicballTest < MiniTest::Test
     # assert !magicball.ask("Test").nil?
     # assert magicball.ask("Test") != nil
     assert_includes Magicball::ANSWERS,
-    magicball.ask("Test")
+    magicball.ask("Test?")
   end
   def test_predefined_answers_is_array
     assert_kind_of Array, Magicball::ANSWERS
@@ -19,6 +19,6 @@ class MagicballTest < MiniTest::Test
     assert_raises "Questions has invalid format." do
     magicball = Magicball.new
     magicball.ask(1)
-  end
+    end
   end
 end

@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3d8d5c3-c5a5-43cc-91ad-943b06adbdeb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magic_ball.rb" afterPath="$PROJECT_DIR$/magic_ball.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magic_ball_test.rb" afterPath="$PROJECT_DIR$/magic_ball_test.rb" />
     </list>
@@ -20,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/magic_ball@Run_test__MagicballTest___magic_ball.coverage" NAME="Run test 'MagicballTest': magic_ball Coverage Results" MODIFIED="1507648557236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="magic_ball" />
+    <SUITE FILE_PATH="coverage/magic_ball@Run_test__MagicballTest___magic_ball.coverage" NAME="Run test 'MagicballTest': magic_ball Coverage Results" MODIFIED="1507649337683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="magic_ball" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -35,21 +33,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="magic_ball.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="magic_ball.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/magic_ball.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="magic_ball_test.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="magic_ball_test.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/magic_ball_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="332">
+              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -63,8 +61,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/magic_ball_test.rb" />
         <option value="$PROJECT_DIR$/magic_ball.rb" />
+        <option value="$PROJECT_DIR$/magic_ball_test.rb" />
       </list>
     </option>
   </component>
@@ -172,44 +170,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507644844251</updated>
-      <workItem from="1507644845347" duration="3590000" />
+      <workItem from="1507644845347" duration="4335000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 11m 57s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 20m 50s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 12m 03s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 20m 57s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 12m 41s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 21m 02s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 14m 18s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 21m 23s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 14m 28s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 21m 25s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 14m 54s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 26m 46s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 15m 04s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 26m 47s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 15m 46s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 27m 53s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 15m 47s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 27m 54s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 15m 57s.xml">
+    <history-entry file="Run_test_'MagicballTest'__magic_ball - 2017.10.10 at 10h 28m 57s.xml">
       <configuration name="Run test 'MagicballTest': magic_ball" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3590000" />
+    <option name="totallyTimeSpent" value="4335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="1097" extended-state="0" />
@@ -222,7 +220,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57322985" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32851636" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32783705" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -245,18 +243,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/magic_ball_test.rb">
+    <entry file="file://$PROJECT_DIR$/magic_ball.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="85">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/magic_ball.rb">
+    <entry file="file://$PROJECT_DIR$/magic_ball_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="332">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding />
         </state>
       </provider>
